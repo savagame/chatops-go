@@ -7,7 +7,7 @@ This directory contains:
 - Jaeger for Trace storage
 - Prometheus for Metric storage
 
-## Turnup the demo
+## Turnup the Bot
 
 In this directory, use the following command:
 
@@ -44,7 +44,7 @@ In another terminal, you can interact with the petstore by using the CLI applica
 go run petstore.go --help
 ```
 
-## Turndown the demo
+## Turndown the Bot
 
 This consists of:
 
